@@ -71,7 +71,7 @@ namespace SydneyHotel
             Console.WriteLine($"The customer spending least is {minrd.customerName} ${minrd.totalPrice}");
             Console.WriteLine($"Press any key to continue....");
             Console.ReadLine();
-//chnages made
+//chaNges made
         }
     }
 }
